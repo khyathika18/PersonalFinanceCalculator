@@ -1,21 +1,21 @@
-# Personal Finance Calculator 💰
+# Personal Finance Calculator 
 
 A simple Java console application that calculates monthly expenses, remaining income, and savings percentage based on user-provided financial information.
 
 This project was created as a **Phase 0 Java Mini Project** to practice fundamental Java programming concepts and basic object-oriented programming.
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Personal Finance Calculator** takes the user's monthly income and expenses in different categories, calculates the total expenses, determines the remaining amount, and calculates the percentage of income that can be saved.
 
 ### Expense Categories
 
-* 🍔 Food
-* 🚗 Travel
-* 📚 Education
-* 🛍️ Others
+* Food
+* Travel
+* Education
+* Others
 
-## ✨ Features
+## Features
 
 * Accepts monthly income from the user
 * Accepts expenses for different categories
@@ -25,13 +25,13 @@ The **Personal Finance Calculator** takes the user's monthly income and expenses
 * Displays a simple financial summary
 * Uses separate classes to organize financial calculations
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Java**
 * **Java Scanner** for user input
 * Object-Oriented Programming concepts
 
-## 📚 Java Concepts Practiced
+## Java Concepts Practiced
 
 This project helped practice the following Java fundamentals:
 
@@ -47,7 +47,7 @@ This project helped practice the following Java fundamentals:
 * Method parameters and return values
 * Basic object-oriented programming
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```text
 Personal-Finance-Calculator/
@@ -113,7 +113,7 @@ Calculate Savings Percentage
 Display Financial Summary
 ```
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -139,7 +139,7 @@ PersonalFinanceCalculator.java
 
 Make sure Java is installed and configured on your system.
 
-## 💻 Sample Input
+##  Sample Input
 
 ```text
 Enter the monthly income:
@@ -158,7 +158,7 @@ Enter others expenses:
 2000
 ```
 
-## 📊 Sample Output
+## Sample Output
 
 ```text
 ------Financial Summary------
@@ -169,28 +169,15 @@ Remaining: 16000.0 rps
 Saving Percentage: 53.333333333333336 %
 ```
 
-## 🚀 Future Improvements
 
-Possible improvements for future versions:
 
-* Add more expense categories dynamically
-* Allow users to enter expenses repeatedly
-* Add monthly expense history
-* Add expense limits or budgets
-* Display the highest expense category
-* Add input validation
-* Improve the formatting of currency and percentages
-* Store financial data using files or a database
-* Create a graphical user interface
-* Add charts for expense analysis
-
-## 🎯 Learning Objective
+## Learning Objective
 
 The main objective of this project was to strengthen Java fundamentals by building a small practical application instead of learning concepts only through isolated examples.
 
 This project is part of my journey to rebuild and strengthen my Java programming skills through **project-based learning**.
 
-## 👩‍💻 Author
+## Author
 
 **Khyathika Kaduthuri**
 
@@ -198,4 +185,4 @@ B.Tech – Electronics and Communication Engineering
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and follow my learning journey.
+ If you find this project useful, feel free to explore the repository and follow my learning journey.
